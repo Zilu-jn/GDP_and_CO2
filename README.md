@@ -1,4 +1,5 @@
 this is a readme file for GDP and CO2
 
 i am adding text
-by Zilu
+by Zilu and Alissa
+
